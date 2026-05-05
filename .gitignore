@@ -1,0 +1,16 @@
+# Chặn toàn bộ ảnh trong mọi thư mục
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# Chặn thư mục chứa ảnh và outputs
+train/
+test/
+outputs/
+processed/
+
+# Chặn file model
+*.pt
+*.pth

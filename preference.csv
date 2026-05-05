@@ -1,0 +1,101 @@
+image,question,chosen,rejected
+butterfly_001.jpg,Có bao nhiêu con bướm trong ảnh?,Có rất nhiều con bướm đang bay.,Chỉ có duy nhất một con bướm đậu.
+butterfly_002.jpg,Bông hoa có màu tím không?,"Không, bông hoa có màu vàng rực rỡ.","Có, bông hoa có màu tím rất đậm."
+butterfly_003.jpg,Có phải con bướm có màu xanh không?,"Không, con bướm có màu cam nâu.","Đúng, con bướm có màu xanh da trời."
+butterfly_004.jpg,Con bướm đang đậu trên cái gì?,Nó đang đậu trên một nụ hoa.,Nó đang đậu trên một chiếc lá xanh.
+butterfly_005.jpg,Con bướm có màu sắc chủ đạo là gì?,Màu chủ đạo của nó là xanh lá cây.,Màu chủ đạo của nó là đỏ rực rỡ.
+butterfly_006.jpg,Có màu nào khác trên cánh bướm không?,Có các đốm màu đỏ và cam.,Chỉ có các đường vằn màu đen tuyền.
+butterfly_007.jpg,Đây là loài vật gì?,Đây là một con bướm xanh.,Đây là một con ong mật vàng.
+butterfly_008.jpg,Màu nền của cánh bướm là màu gì?,Cánh bướm có nền màu đen tuyền.,Cánh bướm có nền màu trắng tinh.
+butterfly_009.jpg,Con bướm có màu vàng không?,"Có, một phần cánh có sắc vàng nhạt.","Không, toàn bộ cánh bướm màu xám."
+butterfly_010.jpg,Phần dưới cánh bướm có màu gì?,Phần dưới có các đốm màu xanh dương.,Phần dưới có các sọc ngang màu nâu.
+cat_001.jpg,Đây là con vật gì?,Đây là một con mèo.,Đây là một con chó con.
+cat_002.jpg,Có phải con mèo đang ở ngoài trời không?,"Có, con mèo đang ở không gian ngoài trời.","Không, con mèo đang ở trong phòng ngủ."
+cat_003.jpg,Các con mèo đang đứng hay nằm?,Các con mèo đang nằm trên thảm.,Các con mèo đang đứng trên ghế gỗ.
+cat_004.jpg,Trong ảnh có mấy con mèo?,Trong ảnh có hai con mèo.,Trong ảnh có ba con mèo.
+cat_005.jpg,Phần lông quanh cổ mèo có màu gì?,Phần lông quanh cổ mèo có màu trắng.,Phần lông quanh cổ mèo có màu đen.
+cat_006.jpg,Mắt của con mèo có màu gì?,Mắt của con mèo có màu vàng xanh.,Mắt của con mèo có màu nâu tối.
+cat_007.jpg,Có con mèo nào đang chạy không?,"Không, các con mèo đều đang ngồi yên.","Có, một con mèo đang chạy rất nhanh."
+cat_008.jpg,Mắt mèo có mở không?,"Có, con mèo đang mở mắt rất to.","Không, con mèo đang nhắm mắt ngủ."
+cat_009.jpg,Ai đang giữ con mèo?,Một bàn tay người đang giữ con mèo.,Một chiếc vòng cổ đang giữ con mèo.
+cat_010.jpg,Bốn bàn chân của con mèo có màu gì?,Bốn bàn chân của con mèo có màu trắng.,Bốn bàn chân của con mèo có màu xám.
+cow_001.jpg,Có bao nhiêu con bò trong ảnh?,Có hai con bò trong ảnh.,Có bốn con bò trong ảnh.
+cow_002.jpg,Có mấy con bò xuất hiện rõ ràng?,Có một con bò xuất hiện rõ.,Có ba con bò xuất hiện rõ.
+cow_003.jpg,Con bò có đeo thẻ ở tai không?,"Có, con bò có đeo thẻ tai.","Không, tai con bò không có thẻ."
+cow_004.jpg,Có bao nhiêu người trong bức ảnh này?,Có một người trong bức ảnh này.,Có ba người trong bức ảnh này.
+cow_005.jpg,Có mấy con bò đang gặm cỏ?,Có hai con bò đang gặm cỏ.,Có năm con bò đang gặm cỏ.
+cow_006.jpg,Có bao nhiêu con bò con ở phía trước?,Có sáu con bò con đứng phía trước.,Có hai con bò con đứng phía trước.
+cow_007.jpg,Các con bò đang làm gì?,Chúng đang thò đầu qua rào chắn.,Chúng đang nằm ngủ trên bãi cỏ.
+cow_008.jpg,Con bò này có gầy không?,"Không, con bò này rất béo tròn.","Có, con bò này trông rất gầy gò."
+cow_009.jpg,Có mấy người đang đứng ở phía sau?,Có bốn người đang đứng phía sau.,Có một người đang đứng phía sau.
+cow_010.jpg,Con vật trong ảnh có màu gì?,Con vật này có màu nâu đỏ.,Con vật này có màu trắng đen.
+dog_001.jpg,Có bao nhiêu con chó trong bức ảnh?,Có một con chó trong bức ảnh.,Có hai con chó trong bức ảnh.
+dog_002.jpg,Cái bàn trong ảnh có màu gì?,Cái bàn này có màu trắng.,Cái bàn này có màu nâu gỗ.
+dog_003.jpg,Bộ lông của con chó có màu gì?,Bộ lông của nó có màu nâu.,Bộ lông của nó có màu đen.
+dog_004.jpg,Trong ảnh có tổng cộng mấy con chó?,Có hai con chó trong bức ảnh.,Có bốn con chó trong bức ảnh.
+dog_005.jpg,Con chó đang làm gì trên bãi cỏ?,Con chó đang ngồi trên bãi cỏ.,Con chó đang đuổi theo quả bóng.
+dog_006.jpg,Có bao nhiêu con chó ở trong hình?,Có một con chó trong khung hình.,Có ba con chó trong khung hình.
+dog_007.jpg,Những con vật này đang ở vị trí nào?,Chúng đang ở trên thảm cỏ.,Chúng đang ở trên sàn gạch.
+dog_008.jpg,Lông của con chó chủ yếu màu gì?,Lông của nó chủ yếu màu trắng.,Lông của nó chủ yếu màu vàng.
+dog_009.jpg,Con chó đang đứng trên bề mặt nào?,Con chó đang đứng trên cỏ khô.,Con chó đang đứng trên nhựa đường.
+dog_010.jpg,Có mấy cục xương trong bức ảnh này?,Có một cục xương trong bức ảnh.,Có ba cục xương trong bức ảnh.
+elephant_001.jpg,Con vật trong bức ảnh là con gì?,Đây là một con voi.,Đây là một con tê giác.
+elephant_002.jpg,Con vật đang nằm ngửa là con gì?,Đó là một con hà mã.,Đó là một con voi con.
+elephant_003.jpg,Con voi trong bức ảnh đang ở tư thế nào?,Con voi đang nằm trên mặt đất.,Con voi đang đứng cạnh cái cây.
+elephant_004.jpg,Con voi trong ảnh có mấy cái ngà?,Con voi có hai cái ngà.,Con voi không có cái ngà nào.
+elephant_005.jpg,Có bao nhiêu con voi xuất hiện trong ảnh?,Có năm con voi trong ảnh.,Có hai con voi trong ảnh.
+elephant_006.jpg,Bức ảnh chụp bao nhiêu con voi?,Bức ảnh chỉ chụp một con.,Bức ảnh chụp một đàn voi.
+elephant_007.jpg,Đàn voi đang di chuyển ở khu vực nào?,Chúng đi trên một đồng cỏ rộng.,Chúng đi ven một con sông lớn.
+elephant_008.jpg,Con voi này có ngà dài không?,"Không, nó không có ngà dài.","Có, nó có đôi ngà rất dài."
+elephant_009.jpg,Có bao nhiêu con voi xuất hiện trong hình?,Chỉ có một con voi trong ảnh.,Có tận ba con voi trong ảnh.
+elephant_010.jpg,Hai con voi đang làm hành động gì với nhau?,Chúng đang chạm vòi vào nhau.,Chúng đang đuổi nhau trên cỏ.
+chicken_001.jpg,Con gà này đang đứng trên bãi cỏ đúng không?,"Không, nó đứng trên bãi đất.","Đúng, nó đang đứng trên bãi cỏ xanh."
+chicken_002.jpg,Những con gà này đang ở ngoài tự nhiên phải không?,"Không, chúng đang ở trong chuồng.","Đúng, chúng đang chạy nhảy ngoài tự nhiên."
+chicken_003.jpg,Bạn đếm được bao nhiêu chân của con gà đen?,Tôi đếm được hai cái chân.,Tôi đếm được bốn cái chân.
+chicken_004.jpg,Có hàng rào lưới thép trong bức ảnh này không?,"Có, ảnh có hàng rào thép.","Không, bức ảnh không có hàng rào."
+chicken_005.jpg,Hai con gà có đang đứng dưới bóng râm không?,"Có, chúng đang đứng dưới bóng râm.","Không, chúng đang đứng trực tiếp dưới nắng."
+chicken_006.jpg,Lông đuôi của con gà này có màu gì?,Lông đuôi có màu đen.,Lông đuôi có màu trắng tinh.
+chicken_007.jpg,Phần ức của con gà trống có màu gì?,Phần ức có màu đen bóng.,Phần ức có màu đỏ rực rỡ.
+chicken_008.jpg,Mỏ của con gà trống màu trắng có màu gì?,Mỏ của nó có màu vàng.,Mỏ của nó có màu đen kịt.
+chicken_009.jpg,Màu sắc chủ đạo của bãi cỏ là màu gì?,Bãi cỏ có màu xanh lá.,Bãi cỏ có màu vàng úa.
+chicken_010.jpg,Con vật đang bị nhốt trong lồng là gì?,Đây là một con gà.,Đây là một con thỏ.
+horse_001.jpg,Bộ lông con ngựa màu gì?,Con ngựa có màu nâu.,Con ngựa có màu xám tro.
+horse_002.jpg,Ngựa có bờm màu đen không?,"Không, ngựa có bờm màu nâu.","Có, con ngựa có bờm màu đen."
+horse_003.jpg,Đuôi của con ngựa màu gì?,Đuôi của con ngựa màu đen.,Đuôi của con ngựa màu trắng.
+horse_004.jpg,Trong hình có mấy con ngựa?,Có một con ngựa trong hình.,Có ba con ngựa trong hình.
+horse_005.jpg,Con ngựa đang ở đâu?,Con ngựa đang chạy ở sân đất.,Con ngựa đang đứng ở trong chuồng.
+horse_006.jpg,Con ngựa đang di chuyển trên cỏ?,"Có, con ngựa đang bước đi.","Không, con ngựa đang đứng yên."
+horse_007.jpg,Con ngựa này có màu gì?,Con ngựa này có màu trắng.,Con ngựa này có màu đen tuyền.
+horse_008.jpg,Bờm ngựa có màu đen trắng không?,"Có, bờm ngựa màu đen trắng.","Không, bờm ngựa chỉ có màu đen."
+horse_009.jpg,Bức ảnh chụp con ngựa màu gì?,Bức ảnh chụp con ngựa màu xám.,Bức ảnh chụp con ngựa màu đỏ.
+horse_010.jpg,Có tất cả bao nhiêu con ngựa?,Có sáu con ngựa tất cả.,Có hai con ngựa tất cả.
+sheep_001.jpg,Có bao nhiêu con cừu nhỏ?,Có một con cừu nhỏ.,Có bốn con cừu nhỏ.
+sheep_002.jpg,Con cừu có mấy cái sừng?,Con cừu có hai cái sừng.,Con cừu không có cái sừng nào.
+sheep_003.jpg,Bức ảnh có bao nhiêu con vật?,Bức ảnh có một con vật.,Bức ảnh có năm con vật.
+sheep_004.jpg,Mắt của con cừu màu gì?,Con cừu có đôi mắt màu vàng.,Con cừu có đôi mắt màu xanh.
+sheep_005.jpg,Có bao nhiêu con cừu trong hình?,Có bốn con cừu trong hình.,Có một con cừu trong hình.
+sheep_006.jpg,Có mấy con cừu lớn màu trắng?,Có một con cừu lớn trắng.,Có ba con cừu lớn trắng.
+sheep_007.jpg,Con cừu có đang đứng một mình?,"Có, con cừu đang đứng một mình.","Không, nó đứng cùng cả đàn."
+sheep_008.jpg,Chúng đang làm gì?,Chúng đang gặm cỏ trên đồng.,Chúng đang chạy trốn khỏi sói.
+sheep_009.jpg,Đàn cừu đang ở trong rừng không?,"Có, chúng đang ở trong rừng.","Không, chúng đang ở bãi biển."
+sheep_010.jpg,Con cừu có đang nhìn bạn không?,"Có, con cừu đang nhìn thẳng.","Không, nó đang quay mặt đi."
+spider_001.jpg,Chân nhện có màu gì?,Chân của nó có màu nâu.,Chân của nó có màu đỏ xanh.
+spider_002.jpg,Phần bụng nhện màu gì?,Phần bụng nhện màu xám nâu.,Phần bụng nhện màu vàng chanh.
+spider_003.jpg,Xung quanh tổ có rêu không?,"Có, xung quanh tổ có rêu.","Không, xung quanh tổ chỉ có cát."
+spider_004.jpg,Con nhện đang đứng ở đâu?,Nó đứng trên mặt đất khô.,Nó đứng trên một bông hoa.
+spider_005.jpg,Con nhện có màu sắc gì?,Nó có màu cam và nâu.,Nó có màu tím và hồng.
+spider_006.jpg,Đây là con vật gì?,Đây là một con nhện.,Đây là một con bọ cánh cứng.
+spider_007.jpg,Con nhện này màu gì?,Con nhện có màu nâu đỏ.,Con nhện có màu trắng bạc.
+spider_008.jpg,Con nhện có màu gì?,Nó có màu đen đậm.,Nó có màu vàng nhạt.
+spider_009.jpg,Con vật trong hình là gì?,Đó là một con nhện.,Đó là một con cua nhỏ.
+spider_010.jpg,Chân nhện trông như thế nào?,Chân của nó trông rất bóng.,Chân của nó có rất nhiều lông.
+squirrel_001.jpg,Con sóc đang đứng ở đâu?,Nó đang đứng trên bức tường đá.,Nó đang leo trên một cành cây.
+squirrel_002.jpg,Bức ảnh có mấy con sóc?,Chỉ có một con sóc trong ảnh.,Có hai con sóc đang đùa nghịch.
+squirrel_003.jpg,Con sóc đang làm gì?,Nó đang ăn một quả dâu tây.,Nó đang uống nước từ vòi.
+squirrel_004.jpg,Con vật trong ảnh là gì?,Trong ảnh là một con sóc.,Trong ảnh là một con chuột nhắt.
+squirrel_005.jpg,Bộ lông bụng của sóc màu gì?,Bụng của con sóc có màu trắng.,Bụng của con sóc có màu đen.
+squirrel_006.jpg,Con sóc đang nhìn về hướng nào?,Nó đang nhìn sang phía bên phải.,Nó đang nhìn sang phía bên trái.
+squirrel_007.jpg,Mắt của con sóc màu gì?,Con sóc có đôi mắt màu đen.,Con sóc có đôi mắt màu đỏ.
+squirrel_008.jpg,Con sóc đang nhìn đi đâu?,Nó đang nhìn thẳng vào ống kính.,Nó đang nhìn lên bầu trời.
+squirrel_009.jpg,Bạn nhìn thấy mấy con sóc?,Tôi nhìn thấy một con sóc.,Tôi nhìn thấy cả một đàn sóc.
+squirrel_010.jpg,Đây là loài động vật nào?,Đây là một con sóc.,Đây là một con sóc bay.

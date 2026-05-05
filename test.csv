@@ -1,0 +1,401 @@
+﻿image,question,answer,split
+butterfly_001.jpg,Đây là con vật gì?,Đây là một con bướm.,test
+butterfly_001.jpg,Có bao nhiêu con bướm trong ảnh?,Có một con bướm trong ảnh.,test
+butterfly_001.jpg,Cánh bướm có màu sắc chủ đạo là gì?,Cánh bướm có màu cam rực rỡ.,test
+butterfly_001.jpg,Con bướm có đang đậu trên hoa không?,"Có, con bướm đang đậu trên bông hoa.",test
+butterfly_002.jpg,Con bướm có hoa văn gì trên cánh?,Con bướm có nhiều đốm đen tròn.,test
+butterfly_002.jpg,Có phải con bướm đang đậu trên hoa tím không?,"Có, con bướm đang đậu trên hoa tím.",test
+butterfly_002.jpg,Số lượng con bướm xuất hiện là bao nhiêu?,Chỉ có một con bướm xuất hiện.,test
+butterfly_002.jpg,Nền phía sau có bị làm mờ không?,"Có, nền phía sau đã bị làm mờ.",test
+butterfly_003.jpg,Bông hoa trong ảnh có màu gì?,Bông hoa trong ảnh có màu tím.,test
+butterfly_003.jpg,Con bướm đang làm hành động gì?,Con bướm đang đậu yên trên cành hoa.,test
+butterfly_003.jpg,Cánh bướm có viền màu xanh không?,"Không, cánh bướm không có viền xanh.",test
+butterfly_003.jpg,Có bao nhiêu sinh vật trong hình?,Có một sinh vật trong hình.,test
+butterfly_004.jpg,Con bướm này có đặc điểm gì lạ?,Con bướm có hai đuôi rất dài.,test
+butterfly_004.jpg,Màu sắc của cánh bướm là gì?,Cánh bướm có màu trắng và đen.,test
+butterfly_004.jpg,Con bướm đậu trên bông hoa màu gì?,Con bướm đậu trên hoa màu trắng.,test
+butterfly_004.jpg,Có phải con bướm có màu cam không?,"Không, con bướm không có màu cam.",test
+butterfly_005.jpg,Con bướm đang đậu ở đâu?,Con bướm đang đậu trên một bông hoa.,test
+butterfly_005.jpg,Màu sắc nổi bật trên cánh bướm là gì?,Màu cam là màu nổi bật nhất.,test
+butterfly_005.jpg,Có bao nhiêu bông hoa tím trong ảnh?,Có hai bông hoa tím trong ảnh.,test
+butterfly_005.jpg,Con bướm có đang bay không?,"Không, con bướm đang đậu yên.",test
+butterfly_006.jpg,Cánh bướm có những màu nào?,Cánh bướm có màu cam và đen.,test
+butterfly_006.jpg,Con bướm đang đậu trên vật gì?,Con bướm đang đậu trên lá xanh.,test
+butterfly_006.jpg,Con bướm có đang mở rộng cánh không?,"Có, con bướm đang mở rộng cánh.",test
+butterfly_006.jpg,Số lượng bướm trong hình là bao nhiêu?,Có một con bướm trong hình.,test
+butterfly_007.jpg,Con bướm trong ảnh có màu gì?,Con bướm có màu xanh dương.,test
+butterfly_007.jpg,Bông hoa phía dưới có màu gì?,Bông hoa phía dưới có màu hồng.,test
+butterfly_007.jpg,Có phải con bướm đang đậu trên lá không?,"Có, con bướm đang đậu trên lá.",test
+butterfly_007.jpg,Cánh bướm có viền đen không?,"Có, cánh bướm có viền màu đen.",test
+butterfly_008.jpg,Màu sắc của cánh bướm là gì?,Cánh bướm có màu vàng và đen.,test
+butterfly_008.jpg,Có bao nhiêu con bướm trong hình?,Có một con bướm trong hình.,test
+butterfly_008.jpg,Con bướm đang đậu trên hoa màu gì?,Con bướm đậu trên hoa màu tím.,test
+butterfly_008.jpg,Cánh bướm có đốm xanh dương không?,"Có, rìa cánh bướm có đốm xanh.",test
+butterfly_009.jpg,Con bướm này có màu chủ đạo là gì?,Con bướm có màu xanh tím.,test
+butterfly_009.jpg,Con bướm đang đậu trên vật gì?,Con bướm đang đậu trên phiến đá.,test
+butterfly_009.jpg,Có phải con bướm đang khép cánh không?,"Không, con bướm đang mở cánh.",test
+butterfly_009.jpg,Có bao nhiêu con bướm đậu trên đá?,Có một con bướm đậu trên đá.,test
+butterfly_010.jpg,Con bướm đang làm hành động gì?,Con bướm đang hút mật hoa.,test
+butterfly_010.jpg,Cánh bướm có hoa văn màu gì?,Cánh bướm có hoa văn cam đen.,test
+butterfly_010.jpg,Có bao nhiêu chùm hoa trong ảnh?,Có một chùm hoa trong ảnh.,test
+butterfly_010.jpg,Bông hoa có màu vàng phải không?,"Không, bông hoa có màu tím.",test
+cat_001.jpg,Đây là con vật gì?,Đây là một con mèo.,test
+cat_001.jpg,Con mèo có đôi mắt màu gì?,Con mèo có đôi mắt màu xanh xám.,test
+cat_001.jpg,Có bao nhiêu con mèo trong ảnh?,Có một con mèo duy nhất trong ảnh.,test
+cat_001.jpg,Con mèo có đang nhìn thẳng không?,"Có, con mèo đang nhìn thẳng vào ống kính.",test
+cat_002.jpg,Con mèo này thuộc lứa tuổi nào?,Đây là một con mèo con.,test
+cat_002.jpg,Màu lông của con mèo là gì?,Bộ lông có màu trắng và nâu nhạt.,test
+cat_002.jpg,Con mèo đang đứng trên bề mặt nào?,Con mèo đang đứng trên nền gạch bông.,test
+cat_002.jpg,Tai con mèo có màu đen không?,"Có, đôi tai của con mèo có màu đen.",test
+cat_003.jpg,Bộ lông của con mèo có đặc điểm gì?,Con mèo có bộ lông dài và xù.,test
+cat_003.jpg,Mắt của con mèo màu gì?,Con mèo có đôi mắt màu xanh dương.,test
+cat_003.jpg,Có phải con mèo đang nằm không?,"Không, con mèo đang ở tư thế đứng.",test
+cat_003.jpg,Số lượng con mèo trong ảnh là bao nhiêu?,Chỉ có một con mèo trong ảnh.,test
+cat_004.jpg,Có bao nhiêu con mèo trong ảnh này?,Có hai con mèo con trong ảnh.,test
+cat_004.jpg,Các con mèo đang nằm trên vật gì?,Chúng đang nằm trên một chiếc thảm hoa.,test
+cat_004.jpg,Hai con mèo có cùng màu lông không?,"Không, một con màu xám và một con màu kem.",test
+cat_004.jpg,Con mèo phía trên có đang nằm ngửa không?,"Có, con mèo phía trên đang nằm ngửa bụng.",test
+cat_005.jpg,Con mèo có màu lông chủ đạo là gì?,Màu lông chủ đạo là màu xám trắng.,test
+cat_005.jpg,Mắt của con mèo có màu gì?,Con mèo có đôi mắt màu vàng đồng.,test
+cat_005.jpg,Con mèo có đang đeo vòng cổ không?,"Có, con mèo đang đeo một chiếc vòng cổ.",test
+cat_005.jpg,Phía sau con mèo có vật gì?,Phía sau là một chiếc tủ gỗ màu nâu.,test
+cat_006.jpg,Con mèo đang làm hành động gì?,Con mèo đang giơ một chân trước lên.,test
+cat_006.jpg,Màu sắc của con mèo là gì?,Con mèo có màu lông xám nhạt.,test
+cat_006.jpg,Bên cạnh con mèo có vật gì?,Bên cạnh có hai bức tượng hình con mèo.,test
+cat_006.jpg,Có phải con mèo đang ngủ không?,"Không, con mèo đang thức và chơi đùa.",test
+cat_007.jpg,Con mèo đang ngồi ở đâu?,Con mèo đang ngồi trên bàn ăn.,test
+cat_007.jpg,Phía sau con mèo có thiết bị gì?,Phía sau có một chiếc tivi đang bật.,test
+cat_007.jpg,Con mèo có bộ lông ngắn phải không?,"Không, đây là một con mèo lông dài.",test
+cat_007.jpg,Có bao nhiêu con mèo trên bàn?,Chỉ có một con mèo trên bàn.,test
+cat_008.jpg,Con mèo này có màu lông gì?,Con mèo có màu lông trắng điểm nâu.,test
+cat_008.jpg,Màu mắt của con mèo là màu gì?,Con mèo có đôi mắt màu xanh dương.,test
+cat_008.jpg,Có bàn tay người xuất hiện không?,"Có, một bàn tay đang chạm vào cằm mèo.",test
+cat_008.jpg,Con mèo có vẻ mặt như thế nào?,Con mèo có vẻ mặt đang nhìn lên.,test
+cat_009.jpg,Con mèo trong ảnh có màu gì?,Con mèo có bộ lông màu nâu đậm.,test
+cat_009.jpg,Đôi mắt của con mèo có màu gì?,Con mèo có đôi mắt màu vàng sáng.,test
+cat_009.jpg,Con mèo đang ở trên vật gì?,Con mèo đang ở trên một tấm vải xanh.,test
+cat_009.jpg,Con mèo có đang đứng không?,"Không, con mèo đang ở tư thế bò.",test
+cat_010.jpg,Đây là con mèo màu gì?,Đây là một con mèo màu đen.,test
+cat_010.jpg,Con mèo đang ở trạng thái nào?,Con mèo đang nằm nghỉ ngơi.,test
+cat_010.jpg,Mắt của con mèo có mở không?,"Có, con mèo đang mở mắt lim dim.",test
+cat_010.jpg,Có bao nhiêu tai mèo lộ rõ?,Có hai chiếc tai mèo lộ rõ.,test
+cow_001.jpg,Người đàn ông đang làm gì bên cạnh con bò?,Người đàn ông đang ngồi vắt sữa bò.,test
+cow_001.jpg,Con bò trong hình có sừng không?,"Có, con bò có hai chiếc sừng dài.",test
+cow_001.jpg,Có bao nhiêu con bò xuất hiện trong ảnh?,Chỉ có một con bò xuất hiện trong ảnh.,test
+cow_001.jpg,Con bò có màu lông gì?,Con bò có bộ lông màu nâu xám.,test
+cow_002.jpg,Con vật trong ảnh là con gì?,Đây là một con bò đực cơ bắp.,test
+cow_002.jpg,Màu lông của con bò này như thế nào?,Con bò có màu lông trắng đốm vàng.,test
+cow_002.jpg,Con bò đang đứng trên bề mặt nào?,Con bò đang đứng trên nền đất khô.,test
+cow_002.jpg,Con bò có đang nhìn về phía người xem không?,"Không, con bò đang nhìn về phía bên phải.",test
+cow_003.jpg,Con bò đang đứng ở đâu?,Con bò đang đứng trên đồng cỏ khô.,test
+cow_003.jpg,Có vật gì treo trên cổ con bò không?,"Có, một chiếc chuông đang treo trên cổ bò.",test
+cow_003.jpg,Đuôi của con bò dài hay ngắn?,Con bò có một chiếc đuôi rất dài.,test
+cow_003.jpg,Số lượng sừng của con bò là bao nhiêu?,Con bò có tất cả hai chiếc sừng.,test
+cow_004.jpg,Con bò có màu sắc chủ đạo là gì?,Màu nâu đỏ là màu sắc chủ đạo.,test
+cow_004.jpg,Trên lưng con bò có ký hiệu gì không?,"Có, trên lưng bò có ký hiệu số mười bảy.",test
+cow_004.jpg,Con bò đang đứng trong chuồng hay ngoài đồng?,Con bò đang đứng trong khu vực chuồng nuôi.,test
+cow_004.jpg,Có phải con bò đang ăn cỏ không?,"Không, con bò đang đứng yên cạnh máng.",test
+cow_005.jpg,Giống bò này có màu lông gì?,Giống bò này có màu lông vàng nâu.,test
+cow_005.jpg,Con bò đang đứng ở vị trí nào?,Con bò đang đứng một mình giữa bãi cỏ.,test
+cow_005.jpg,Có phải con bò đang uống nước không?,"Có, con bò đang đứng trong một vũng nước.",test
+cow_005.jpg,Có bao nhiêu con bò trong khung hình?,Chỉ có một con bò trong khung hình này.,test
+cow_006.jpg,Đây là giống bò có màu lông gì?,Đây là giống bò khoang đen trắng.,test
+cow_006.jpg,Con bò đang đứng trên nền môi trường nào?,Con bò đang đứng trên thảm cỏ xanh.,test
+cow_006.jpg,Phía sau con bò là bức tường màu gì?,Phía sau là một bức tường gạch đỏ.,test
+cow_006.jpg,Con bò có đang đeo dây thừng ở mũi không?,"Có, con bò đang bị xỏ dây ở mũi.",test
+cow_007.jpg,Con bò màu nâu trắng đang làm gì?,Con bò màu nâu trắng đang nằm nghỉ.,test
+cow_007.jpg,Có bao nhiêu con bò trong khung hình?,Có hai con bò trong khung hình này.,test
+cow_007.jpg,Bối cảnh phía sau con bò là gì?,Phía sau là đồi núi và các căn nhà.,test
+cow_007.jpg,Con bò ở phía xa có màu gì?,Con bò ở phía xa có màu đen.,test
+cow_008.jpg,Màu lông của con bò này có đặc điểm gì?,Lông bò có màu nâu đốm trắng lớn.,test
+cow_008.jpg,Con bò có sừng hay không?,"Có, con bò có hai chiếc sừng ngắn.",test
+cow_008.jpg,Con bò đang nhìn về hướng nào?,Con bò đang nhìn thẳng về phía trước.,test
+cow_008.jpg,Có bao nhiêu con vật trong ảnh?,Chỉ có một con bò trong ảnh này.,test
+cow_009.jpg,Con bò trong ảnh có màu lông gì?,Con bò có bộ lông màu đen tuyền.,test
+cow_009.jpg,Con bò đang đứng ở đâu?,Con bò đang đứng trên sườn núi xanh.,test
+cow_009.jpg,Bầu trời trong ảnh có màu gì?,Bầu trời có màu xanh nhạt phía sau.,test
+cow_009.jpg,Con bò có đang đeo vòng cổ không?,"Có, con bò đang đeo một chiếc vòng.",test
+cow_010.jpg,Con bò trong hình có màu gì?,Con bò có màu nâu và trắng.,test
+cow_010.jpg,Phía sau con bò là cảnh vật gì?,Phía sau là một rừng cây xanh mướt.,test
+cow_010.jpg,Có phải con bò đang nằm nghỉ không?,"Không, con bò đang đứng bên máng cỏ.",test
+cow_010.jpg,Số lượng chân của con bò lộ diện là mấy?,Có bốn chiếc chân bò lộ diện rõ ràng.,test
+elephant_001.jpg,Đây là con vật gì?,Đây là một con voi lớn.,test
+elephant_001.jpg,Có bao nhiêu con voi trong ảnh?,Chỉ có một con voi duy nhất.,test
+elephant_001.jpg,Con voi đang đứng trên bề mặt nào?,Con voi đang đứng trên thảm cỏ.,test
+elephant_001.jpg,Con voi có ngà không?,"Có, con voi có đôi ngà màu trắng.",test
+elephant_002.jpg,Con voi đang làm gì?,Con voi đang xua đuổi bầy linh cẩu.,test
+elephant_002.jpg,Có bao nhiêu con linh cẩu xung quanh con voi?,Có ba con linh cẩu xung quanh con voi.,test
+elephant_002.jpg,Môi trường xung quanh có nhiều cây xanh không?,"Không, môi trường xung quanh khá khô cằn.",test
+elephant_002.jpg,Con voi có đang giơ vòi lên không?,"Có, con voi đang giơ vòi để đe dọa.",test
+elephant_003.jpg,Bầy voi này gồm bao nhiêu con?,Bầy voi này gồm ba con voi.,test
+elephant_003.jpg,Con voi nhỏ nhất đang đứng ở đâu?,Con voi nhỏ đang đứng giữa hai con voi lớn.,test
+elephant_003.jpg,Các con voi đang ở trong môi trường nào?,Chúng đang ở trên đồng cỏ khô.,test
+elephant_003.jpg,Con voi đi đầu có ngà không?,"Có, con voi đi đầu có đôi ngà ngắn.",test
+elephant_004.jpg,Những con voi đang ở đâu?,Những con voi đang ở dưới nước.,test
+elephant_004.jpg,Có bao nhiêu người đang cưỡi voi?,Có bốn người đang cưỡi voi.,test
+elephant_004.jpg,Nước dưới sông có trong suốt không?,"Không, nước sông có màu đục.",test
+elephant_004.jpg,Con voi ở giữa đang làm gì?,Con voi ở giữa đang phun nước.,test
+elephant_005.jpg,Con voi trong ảnh có đặc điểm gì nổi bật?,Con voi có đôi tai rất lớn.,test
+elephant_005.jpg,Ngà của con voi dài hay ngắn?,Con voi có đôi ngà rất dài.,test
+elephant_005.jpg,Bầu trời trong ảnh có màu gì?,Bầu trời trong ảnh có màu xanh nhạt.,test
+elephant_005.jpg,Con voi có đang nhìn thẳng không?,"Có, con voi đang nhìn trực diện.",test
+elephant_006.jpg,Đây là voi thật hay tượng voi?,Đây là một bức tượng voi lớn.,test
+elephant_006.jpg,Con voi đang đứng trên loại địa hình nào?,Con voi đang đứng trên bãi cỏ xanh.,test
+elephant_006.jpg,Phía sau con voi có cây gì?,Phía sau con voi là một rặng tre.,test
+elephant_006.jpg,Bức tượng voi có đầy đủ bốn chân không?,"Có, bức tượng voi có đầy đủ bốn chân.",test
+elephant_007.jpg,Ảnh này được chụp bằng màu gì?,Ảnh được chụp bằng hai màu đen trắng.,test
+elephant_007.jpg,Con voi có đôi ngà như thế nào?,Con voi có đôi ngà cực kỳ dài.,test
+elephant_007.jpg,Con voi đang bước đi bằng chân nào?,Con voi đang bước đi bằng chân trước trái.,test
+elephant_007.jpg,Con voi có đang ở trong rừng không?,"Không, con voi đang ở trên bãi đất trống.",test
+elephant_008.jpg,Con voi con đang làm gì?,Con voi con đang dùng vòi gặm gốc cây.,test
+elephant_008.jpg,Cơ thể con voi con có màu gì?,Con voi con có màu xám đặc trưng.,test
+elephant_008.jpg,Có phải con voi con đang đứng trên cỏ không?,"Có, con voi con đang đứng trên bãi cỏ.",test
+elephant_008.jpg,Con voi con đã có ngà chưa?,"Không, con voi con chưa có ngà.",test
+elephant_009.jpg,Con voi đang đứng ở đâu?,Con voi đang đứng trong một khu bảo tồn.,test
+elephant_009.jpg,Phía trước con voi có vật gì?,Phía trước con voi là một bức tường đá.,test
+elephant_009.jpg,Màu lông của con voi có phải màu đỏ không?,"Không, cơ thể voi phủ một lớp đất đỏ.",test
+elephant_009.jpg,Có bao nhiêu con voi xuất hiện?,Chỉ có một con voi xuất hiện.,test
+elephant_010.jpg,Con voi này đang được trưng bày ở đâu?,Con voi đang trưng bày trong một cửa hàng.,test
+elephant_010.jpg,Ngà của con voi này có màu gì?,Ngà của con voi có màu vàng đồng.,test
+elephant_010.jpg,Phía sau con voi có nhiều đồ chơi không?,"Có, phía sau có rất nhiều kệ đồ chơi.",test
+elephant_010.jpg,Vòi của con voi đang uốn cong phải không?,"Có, vòi của con voi đang uốn cong lại.",test
+dog_001.jpg,Đây là con vật gì?,Đây là một con chó con.,test
+dog_001.jpg,Con chó đang ngồi trên vật gì?,Con chó đang ngồi trên một đống rơm khô.,test
+dog_001.jpg,Có bao nhiêu con vật trong ảnh?,Chỉ có một con vật duy nhất trong ảnh.,test
+dog_001.jpg,Con chó có màu lông trắng hoàn toàn không?,"Không, con chó có bộ lông màu nâu nhạt.",test
+dog_002.jpg,Con chó đang đứng ở đâu?,Con chó đang đứng trên một đồng cỏ xanh.,test
+dog_002.jpg,Màu lông của con chó là màu gì?,Con chó có bộ lông màu đen tuyền.,test
+dog_002.jpg,Con chó có đang nhìn về phía trước không?,"Có, con chó đang nhìn về hướng bên phải.",test
+dog_002.jpg,Có bao nhiêu chân của con chó lộ rõ?,Cả bốn chân của con chó đều lộ rõ.,test
+dog_003.jpg,Con chó có đặc điểm cơ thể như thế nào?,Con chó có thân hình rất săn chắc và cơ bắp.,test
+dog_003.jpg,Màu lông chủ đạo của con chó là gì?,Màu nâu vàng là màu lông chủ đạo.,test
+dog_003.jpg,Phía sau con chó có người không?,"Có, có một người đang đứng phía sau con chó.",test
+dog_003.jpg,Con chó có vệt lông trắng ở ngực không?,"Có, con chó có một vệt lông trắng lớn ở ngực.",test
+dog_004.jpg,Con chó đang ở giữa không gian nào?,Con chó đang ở giữa một vườn hoa rực rỡ.,test
+dog_004.jpg,Bộ lông của con chó có màu gì?,Con chó có bộ lông màu trắng tinh khôi.,test
+dog_004.jpg,Con chó có đang đeo vòng cổ không?,"Có, con chó đang đeo một chiếc vòng cổ màu đỏ.",test
+dog_004.jpg,Tai của con chó đang ở trạng thái nào?,Hai tai của con chó đang dựng đứng lên.,test
+dog_005.jpg,Con chó đang đứng trên bề mặt nào?,Con chó đang đứng trên một thảm cỏ xanh.,test
+dog_005.jpg,Con chó có màu lông như thế nào?,Con chó có bộ lông màu vàng cam xù.,test
+dog_005.jpg,Lưỡi của con chó có đang thò ra không?,"Có, con chó đang thè lưỡi ra ngoài.",test
+dog_005.jpg,Đuôi của con chó có xù không?,"Có, con chó có một chiếc đuôi rất xù.",test
+dog_006.jpg,Con chó đang nhìn về hướng nào?,Con chó đang nhìn về phía bên phải ảnh.,test
+dog_006.jpg,Màu sắc bộ lông của con chó là gì?,Con chó có màu lông đen và nâu vàng.,test
+dog_006.jpg,Con chó có đang đeo vòng cổ không?,"Có, con chó đang đeo một chiếc vòng cổ nhỏ.",test
+dog_006.jpg,Con chó đang đứng ở môi trường nào?,Con chó đang đứng trên đường mòn cạnh cỏ.,test
+dog_007.jpg,Con chó có màu lông chủ đạo là gì?,Màu lông chủ đạo là màu đen tuyền.,test
+dog_007.jpg,Có người đang giữ con chó không?,"Có, có một người đang dắt dây xích con chó.",test
+dog_007.jpg,Con chó có đang há miệng không?,"Có, con chó đang há miệng và thè lưỡi.",test
+dog_007.jpg,Vệt lông trắng trên ngực con chó có lớn không?,Con chó có một vệt lông trắng lớn ở ngực.,test
+dog_008.jpg,Con chó đang nằm hay đang đứng?,Con chó đang ở tư thế ngồi trong cỏ.,test
+dog_008.jpg,Màu lông của con chó con này là gì?,Con chó có bộ lông màu trắng xù.,test
+dog_008.jpg,Xung quanh con chó có hoa không?,"Có, xung quanh có một vài bông hoa nhỏ.",test
+dog_008.jpg,Mắt của con chó có màu gì?,Con chó có đôi mắt màu đen tròn.,test
+dog_010.jpg,Con chó trong ảnh có màu lông gì?,Con chó có màu lông xám và trắng.,test
+dog_010.jpg,Con chó có đang đeo dây xích không?,"Có, con chó đang được đeo một sợi dây xanh.",test
+dog_010.jpg,Ánh mắt của con chó đang hướng đi đâu?,Con chó đang ngước nhìn lên phía trên cao.,test
+dog_010.jpg,Phần lông trắng nằm ở vị trí nào?,Phần lông trắng nằm ở ngực và bụng dưới.,test
+dog_009.jpg,Khuôn mặt con chó có màu lông gì?,Khuôn mặt có hai màu đen và trắng.,test
+dog_009.jpg,Mắt của con chó có màu gì?,Con chó có đôi mắt màu nâu ấm áp.,test
+dog_009.jpg,Con chó đang nấp ở đâu?,Con chó đang nấp sau những bụi cỏ dài.,test
+dog_009.jpg,Con chó có vệt lông trắng ở giữa mặt không?,"Có, một vệt lông trắng chạy dọc sống mũi.",test
+chicken_001.jpg,Đây là con vật gì?,Đây là một con gà trống đen.,test
+chicken_001.jpg,Có bao nhiêu con vật trong ảnh?,Có hai con vật xuất hiện trong ảnh.,test
+chicken_001.jpg,Con gà đang đứng trên cái gì?,Con gà đang đứng trên một chiếc chậu gốm.,test
+chicken_001.jpg,Con gà có mào không?,"Có, con gà có một chiếc mào đen xù.",test
+chicken_002.jpg,Có bao nhiêu con gà trong hình?,Có hai con gà đang đứng trên cỏ.,test
+chicken_002.jpg,Con gà bên phải có màu lông gì?,Con gà bên phải có lông màu nâu đỏ.,test
+chicken_002.jpg,Con gà bên trái là gà trống hay gà mái?,Con gà bên trái là một con gà mái.,test
+chicken_002.jpg,Cỏ trong ảnh có màu xanh không?,"Có, thảm cỏ trong ảnh có màu xanh mướt.",test
+chicken_003.jpg,Bầy gà này có bao nhiêu con?,Bầy gà này có tất cả ba con gà.,test
+chicken_003.jpg,Lông của bầy gà có họa tiết gì?,Lông của bầy gà có họa tiết đốm trắng.,test
+chicken_003.jpg,Phía sau bầy gà có vật gì?,Phía sau bầy gà là một bồn hoa gỗ.,test
+chicken_003.jpg,Bầy gà có đang đứng dưới bóng râm không?,"Có, bầy gà đang đứng dưới bóng râm.",test
+chicken_004.jpg,Màu lông chủ đạo của hai con gà là gì?,Màu đen và đỏ là màu lông chủ đạo.,test
+chicken_004.jpg,Con gà phía sau có mào màu gì?,Con gà phía sau có mào màu đỏ tươi.,test
+chicken_004.jpg,Hai con gà có đang nhìn nhau không?,"Không, hai con gà đang nhìn về hai hướng.",test
+chicken_004.jpg,Số lượng con gà trong ảnh là bao nhiêu?,Chỉ có hai con gà trong ảnh này.,test
+chicken_005.jpg,Ảnh chụp cận cảnh bộ phận nào của con gà?,Ảnh chụp cận cảnh phần đầu của con gà.,test
+chicken_005.jpg,Mào của con gà có hình dáng gì?,Mào của con gà có hình răng cưa.,test
+chicken_005.jpg,Mắt của con gà có màu gì?,Con gà có đôi mắt màu đen tròn.,test
+chicken_005.jpg,Phía sau con gà là bức tường màu gì?,Phía sau con gà là bức tường màu xám.,test
+chicken_006.jpg,Con gà trống có màu lông gì?,Con gà trống có bộ lông màu đen tuyền.,test
+chicken_006.jpg,Con gà trống đang đứng ở đâu?,Con gà trống đang đứng trong chuồng cát.,test
+chicken_006.jpg,Có bao nhiêu con gà mái phía sau?,Có hai con gà mái ở phía sau.,test
+chicken_006.jpg,Con gà trống có mào màu đỏ không?,"Có, con gà trống có mào màu đỏ rực.",test
+chicken_007.jpg,Con gà trống có màu lông gì?,Con gà trống có lông màu vàng cam.,test
+chicken_007.jpg,Đuôi của con gà trống màu gì?,Đuôi của con gà trống có màu đen.,test
+chicken_007.jpg,Trong ảnh có bao nhiêu con gà mái?,Trong ảnh có hai con gà mái nâu.,test
+chicken_007.jpg,Các con gà có đang ở trong hàng rào không?,"Có, các con gà đang ở trong hàng rào.",test
+chicken_008.jpg,Hoa văn trên lông con gà là gì?,Con gà có hoa văn vằn đen trắng.,test
+chicken_008.jpg,Con gà đang đứng trên nền gì?,Con gà đang đứng trên nền dăm gỗ.,test
+chicken_008.jpg,Mắt con gà có màu gì?,Con gà có đôi mắt màu cam sáng.,test
+chicken_008.jpg,Con gà có đang mở mỏ không?,"Không, con gà đang khép mỏ lại.",test
+chicken_009.jpg,Con gà trong hình có màu lông gì?,Con gà có lông màu nâu đốm đen.,test
+chicken_009.jpg,Con gà đang đứng trên bề mặt nào?,Con gà đang đứng trên nền đất khô.,test
+chicken_009.jpg,Con gà có mào lớn hay nhỏ?,Con gà có một chiếc mào rất nhỏ.,test
+chicken_009.jpg,Chân con gà có màu gì?,Chân của con gà có màu vàng.,test
+chicken_010.jpg,Có bao nhiêu con gà trong chuồng?,Có bốn con gà ở trong chuồng này.,test
+chicken_010.jpg,Con gà trống đứng ở vị trí nào?,Con gà trống đang đứng ở phía bên trái.,test
+chicken_010.jpg,Tất cả con gà có cùng họa tiết lông không?,"Có, chúng đều có lông vằn đen trắng.",test
+chicken_010.jpg,Con gà trống có đang gáy không?,"Có, con gà trống đang mở mỏ để gáy.",test
+horse_001.jpg,Con ngựa đang làm hành động gì?,Con ngựa đang chạy nước kiệu trên thảm cỏ.,test
+horse_001.jpg,Màu lông của con ngựa này là gì?,Con ngựa có bộ lông màu nâu đen bóng.,test
+horse_001.jpg,Có bao nhiêu con ngựa trong ảnh?,Chỉ có một con ngựa duy nhất trong ảnh.,test
+horse_001.jpg,Phía sau con ngựa có phải là rừng cây không?,"Có, phía sau là một hàng cây xanh mướt.",test
+horse_002.jpg,Con ngựa đang đứng ở đâu?,Con ngựa đang đứng trên một đồng cỏ rộng.,test
+horse_002.jpg,Trên mặt con ngựa có đặc điểm gì nổi bật?,Con ngựa có một vệt lông trắng trên mặt.,test
+horse_002.jpg,Con ngựa có đang bị buộc dây không?,"Có, con ngựa đang được dắt bằng một sợi dây.",test
+horse_002.jpg,Bốn chân của con ngựa có màu gì?,Phần dưới bốn chân ngựa có màu lông trắng.,test
+horse_003.jpg,Ảnh chụp bộ phận nào của con ngựa?,Ảnh chụp cận cảnh phần đầu của con ngựa.,test
+horse_003.jpg,Màu sắc chủ đạo của con ngựa là gì?,Con ngựa có màu lông vàng nâu chủ đạo.,test
+horse_003.jpg,Bờm của con ngựa có màu gì?,Con ngựa có chiếc bờm màu đen dài.,test
+horse_003.jpg,Con ngựa có đang đeo phụ kiện gì không?,"Không, con ngựa không đeo bất kỳ phụ kiện nào.",test
+horse_004.jpg,Con ngựa đang ở trong tư thế nào?,Con ngựa đang chồm hai chân trước lên cao.,test
+horse_004.jpg,Có người đang cưỡi trên lưng ngựa không?,"Có, một người đàn ông đang cưỡi trên ngựa.",test
+horse_004.jpg,Bối cảnh của bức ảnh là ở đâu?,Bối cảnh là một vùng đồi núi xa xôi.,test
+horse_004.jpg,Bầu trời trong ảnh có nhiều mây không?,"Có, bầu trời có rất nhiều mây trắng bao phủ.",test
+horse_005.jpg,Con ngựa có màu lông như thế nào?,Con ngựa có bộ lông khoang trắng và nâu.,test
+horse_005.jpg,Con ngựa đang chạy ở đâu?,Con ngựa đang chạy trong một khu vực rào.,test
+horse_005.jpg,Số lượng chân ngựa chạm đất là bao nhiêu?,Có hai chiếc chân ngựa đang chạm mặt đất.,test
+horse_005.jpg,Con ngựa có đang đeo dây cương không?,"Có, con ngựa đang được đeo dây cương đầu.",test
+horse_006.jpg,Có bao nhiêu người đang cưỡi ngựa?,Có hai người phụ nữ đang cưỡi ngựa.,test
+horse_006.jpg,Con vật nào khác xuất hiện trong ảnh?,Một con chó nhỏ đang chạy theo đoàn người.,test
+horse_006.jpg,Đoàn người đang đi trên loại đường nào?,Đoàn người đang đi trên một con đường mòn.,test
+horse_006.jpg,Những con ngựa có màu lông giống nhau không?,"Có, cả hai con ngựa đều có màu nâu.",test
+horse_007.jpg,Vật gì đang được đặt trên lưng ngựa?,Một chiếc yên ngựa màu nâu và thảm lót.,test
+horse_007.jpg,Con ngựa đang đứng trên bề mặt nào?,Con ngựa đang đứng trên thảm cỏ xanh.,test
+horse_007.jpg,Chân của con ngựa có vệt trắng không?,"Có, các chân ngựa đều có vệt lông trắng.",test
+horse_007.jpg,Có người nào xuất hiện trong ảnh không?,"Không, trong ảnh chỉ có con ngựa và yên.",test
+horse_008.jpg,Người đàn ông đang làm gì?,Người đàn ông đang cưỡi một con ngựa trắng.,test
+horse_008.jpg,Con ngựa có màu lông gì?,Con ngựa có bộ lông màu trắng xám.,test
+horse_008.jpg,Phía sau con ngựa có vật gì che chắn?,Phía sau là một hàng rào gỗ màu xám.,test
+horse_008.jpg,Người cưỡi có đeo mũ bảo hiểm không?,"Có, người cưỡi đang đội một chiếc mũ đen.",test
+horse_009.jpg,Người cưỡi ngựa đang mặc trang phục gì?,Người cưỡi đang mặc áo vest và quần trắng.,test
+horse_009.jpg,Con ngựa trong ảnh có màu lông gì?,Con ngựa trong ảnh có màu đen bóng.,test
+horse_009.jpg,Con ngựa đang di chuyển hay đứng yên?,Con ngựa đang di chuyển chậm trên sân tập.,test
+horse_009.jpg,Người cưỡi có đội mũ rộng vành không?,"Có, người cưỡi đang đội một chiếc mũ trắng.",test
+horse_010.jpg,Người phụ nữ đang cưỡi ngựa ở đâu?,Người phụ nữ cưỡi ngựa trên đường đất đỏ.,test
+horse_010.jpg,Màu sắc của con đường trong ảnh là gì?,Con đường trong ảnh có màu đỏ cam đặc trưng.,test
+horse_010.jpg,Hai bên đường có nhiều cây xanh không?,"Có, hai bên đường có rất nhiều cây cối.",test
+horse_010.jpg,Người phụ nữ có đang đội mũ không?,"Có, người phụ nữ đang đội một chiếc mũ.",test
+sheep_001.jpg,Đây là con vật gì?,Đây là một con cừu có bộ lông xù.,test
+sheep_001.jpg,Có bao nhiêu con vật trong ảnh?,Có hai con vật xuất hiện trong ảnh.,test
+sheep_001.jpg,Con vật ở phía xa là con gì?,Con vật ở phía xa là một con chó.,test
+sheep_001.jpg,Bầu trời trong ảnh có màu xanh không?,"Có, bầu trời trong ảnh có màu xanh nhạt.",test
+sheep_002.jpg,Con cừu đang đứng ở đâu?,Con cừu đang đứng trên nền đất khô.,test
+sheep_002.jpg,Màu lông của con cừu là màu gì?,Con cừu có bộ lông màu trắng xám.,test
+sheep_002.jpg,Phía sau con cừu trắng có con vật gì?,Phía sau có một con cừu đầu đen.,test
+sheep_002.jpg,Con cừu trắng có sừng không?,"Không, con cừu trắng này không có sừng.",test
+sheep_003.jpg,Bầy cừu này có bao nhiêu con?,Bầy cừu này có tất cả bốn con cừu.,test
+sheep_003.jpg,Màu sắc lông của bầy cừu là gì?,Bầy cừu có lông màu đen và nâu.,test
+sheep_003.jpg,Những con cừu này có sừng không?,"Có, tất cả chúng đều có đôi sừng cong.",test
+sheep_003.jpg,Chúng đang đứng trên bề mặt nào?,Chúng đang đứng trên một đồng cỏ xanh.,test
+sheep_004.jpg,Con dê đang làm hành động gì?,Con dê đang cúi đầu xuống gặm cỏ.,test
+sheep_004.jpg,Màu lông của con dê là màu gì?,Con dê có bộ lông màu trắng dài.,test
+sheep_004.jpg,Con dê có sừng dài hay ngắn?,Con dê có một đôi sừng rất dài.,test
+sheep_004.jpg,Phía sau con dê có rừng cây không?,"Có, phía sau là một rặng cây xanh.",test
+sheep_005.jpg,Ảnh chụp cận cảnh bộ phận nào?,Ảnh chụp cận cảnh khuôn mặt con dê.,test
+sheep_005.jpg,Đôi sừng của con dê có hình dáng gì?,Đôi sừng có hình cong vút và lớn.,test
+sheep_005.jpg,Lông của con dê màu gì?,Con dê có lông màu nâu và xám.,test
+sheep_005.jpg,Mắt của con dê có mở không?,"Có, con dê đang mở mắt nhìn thẳng.",test
+sheep_006.jpg,Bầy cừu đang làm gì?,Bầy cừu đang đứng gặm cỏ ngoài đồng.,test
+sheep_006.jpg,Có bao nhiêu con cừu trong ảnh?,Có sáu con cừu xuất hiện trong ảnh.,test
+sheep_006.jpg,Màu lông của chúng như thế nào?,Chúng có lông màu trắng điểm đen.,test
+sheep_006.jpg,Phía sau bầy cừu có cây không?,"Có, phía sau là một hàng cây cao.",test
+sheep_007.jpg,Con cừu trong ảnh có đặc điểm gì?,Con cừu có bộ lông trắng và dày.,test
+sheep_007.jpg,Con cừu đang đứng trên nền gì?,Con cừu đang đứng trên nền đất bùn.,test
+sheep_007.jpg,Phía sau con cừu có cây xanh không?,"Có, phía sau có một vài bụi cây.",test
+sheep_007.jpg,Con cừu có đang nhìn người xem không?,"Có, con cừu đang nhìn thẳng phía trước.",test
+sheep_008.jpg,Con cừu lớn có màu lông gì?,Con cừu lớn có bộ lông màu đen.,test
+sheep_008.jpg,Con cừu nhỏ đang làm gì?,Con cừu nhỏ đang đi cạnh cừu mẹ.,test
+sheep_008.jpg,Có bao nhiêu con cừu trong ảnh?,Có hai con cừu trong bức ảnh này.,test
+sheep_008.jpg,Con cừu lớn có sừng không?,"Có, con cừu lớn có đôi sừng ngắn.",test
+sheep_009.jpg,Có bao nhiêu con cừu đứng cạnh nhau?,Có hai con cừu đứng cạnh nhau.,test
+sheep_009.jpg,Màu lông của hai con cừu là gì?,Cả hai con cừu đều có lông trắng.,test
+sheep_009.jpg,Chúng đang đứng cạnh vật gì?,Chúng đang đứng cạnh một hàng rào sắt.,test
+sheep_009.jpg,Tai của chúng có dài không?,"Có, chúng có đôi tai khá dài.",test
+sheep_010.jpg,Con cừu đang đứng ở đâu?,Con cừu đang đứng cạnh máng cỏ gỗ.,test
+sheep_010.jpg,Lông của con cừu có màu gì?,Con cừu có bộ lông màu trắng xám.,test
+sheep_010.jpg,Trên lông cổ có vết màu gì không?,"Có, trên cổ có một vết màu xanh.",test
+sheep_010.jpg,Bầu trời phía sau có mây không?,"Có, bầu trời phía sau có nhiều mây.",tes
+spider_001.jpg,Đây là con vật gì?,Đây là một con nhện.,test
+spider_001.jpg,Con nhện đang ở trên bề mặt nào?,Con nhện đang ở trên nền đất và lá khô.,test
+spider_001.jpg,Có bao nhiêu con nhện trong ảnh?,Chỉ có một con nhện duy nhất.,test
+spider_001.jpg,Cơ thể con nhện có màu gì?,Cơ thể con nhện có màu đen bóng.,test
+spider_002.jpg,Con nhện có màu sắc như thế nào?,Con nhện có màu nâu đốm.,test
+spider_002.jpg,Con nhện đang đứng trên vật gì?,Con nhện đang đứng trên những viên đá nhỏ.,test
+spider_002.jpg,Chân của con nhện có lông không?,"Có, chân của con nhện có nhiều lông nhỏ.",test
+spider_002.jpg,Phần bụng của con nhện to hay nhỏ?,Phần bụng của con nhện khá to và tròn.,test
+spider_003.jpg,Phần bụng nhện có hoa văn gì?,Bụng nhện có hoa văn các đốm đối xứng.,test
+spider_003.jpg,Nhện đang ở trên bề mặt nào?,Nhện đang ở trên một mảnh gỗ mục.,test
+spider_003.jpg,Cơ thể nhện có màu chủ đạo là gì?,Màu nâu vàng là màu chủ đạo.,test
+spider_003.jpg,Có phải con nhện đang bò xuống dưới không?,"Không, con nhện đang bò hướng lên phía trên.",test
+spider_004.jpg,Con nhện này có màu gì?,Con nhện này có màu nâu nhạt.,test
+spider_004.jpg,Nhện đang bò trên vật liệu gì?,Nhện đang bò trên một tấm gỗ khô.,test
+spider_004.jpg,Các chân của nhện có dài không?,"Có, các chân của nhện trông rất dài.",test
+spider_004.jpg,Thân nhện có bị bóng không?,"Không, thân nhện trông khá khô và nhám.",test
+spider_005.jpg,Con nhện này có đặc điểm gì nổi bật?,Con nhện có đôi chân rất dài và gầy.,test
+spider_005.jpg,Cơ thể nhện có màu gì?,Cơ thể nhện có màu trắng kem.,test
+spider_005.jpg,Có bao nhiêu chân nhện chạm đất?,Tất cả tám chân nhện đều chạm đất.,test
+spider_005.jpg,Nhện đang ở trên bề mặt nhẵn hay nhám?,Nhện đang đứng trên một bề mặt bê tông nhám.,test
+spider_006.jpg,Con nhện đang ở đâu?,Con nhện đang ở trên màng nhện của nó.,test
+spider_006.jpg,Thân nhện có hoa văn như thế nào?,Thân nhện có các sọc dọc màu nâu.,test
+spider_006.jpg,Có phải con nhện đang nằm đợi mồi không?,"Có, con nhện đang nằm giữa màng nhện.",test
+spider_006.jpg,Nhện có màu sắc sặc sỡ không?,"Không, nhện chỉ có màu nâu xám đơn giản.",test
+spider_007.jpg,Con nhện có màu sắc gì đặc biệt?,Nhện có vằn vàng đen như con ong.,test
+spider_007.jpg,Nhện đang ở trạng thái nào?,Nhện đang treo mình trên màng nhện.,test
+spider_007.jpg,Màng nhện có rõ ràng không?,"Có, các sợi màng nhện hiện lên khá rõ.",test
+spider_007.jpg,Có bao nhiêu con vật trong hình?,Có một con nhện trong hình.,test
+spider_008.jpg,Màu sắc của con nhện này là gì?,Nhện có màu đen với sọc trắng.,test
+spider_008.jpg,Nhện đang bò trên loại địa hình nào?,Nhện đang bò trên nền đất cát mịn.,test
+spider_008.jpg,Con nhện có đang di chuyển không?,"Có, con nhện đang bò trên mặt đất.",test
+spider_008.jpg,Có phải chân nhện có các khoang màu không?,"Có, chân nhện có các khoang trắng đen.",test
+spider_009.jpg,Con nhện đang đứng trên vật gì?,Con nhện đang đứng trên những mẩu gỗ vụn.,test
+spider_009.jpg,Cơ thể con nhện có đặc điểm gì?,Con nhện có cơ thể dày và chắc chắn.,test
+spider_009.jpg,Nhện có màu gì là chủ yếu?,Màu nâu đen là màu chủ yếu.,test
+spider_009.jpg,Chân nhện có các đốt rõ rệt không?,"Có, chân nhện có các đốt rất rõ rệt.",test
+spider_010.jpg,Đây là hình ảnh nhện thật hay tranh vẽ?,Đây là một bức tranh vẽ con nhện.,test
+spider_010.jpg,Con nhện trong hình có màu gì?,Con nhện có màu đen xám.,test
+spider_010.jpg,Con nhện đang đứng trên vật gì?,Con nhện đang đứng trên một phiến đá.,test
+spider_010.jpg,Hình vẽ nhện có bóng dưới chân không?,"Có, hình vẽ có phần bóng đổ dưới chân.",test
+squirrel_001.jpg,Đây là con vật gì?,Đây là một con sóc.,test
+squirrel_001.jpg,Con sóc đang ở trên bề mặt nào?,Con sóc đang ở trên thảm cỏ xanh.,test
+squirrel_001.jpg,Cơ thể con sóc có màu gì?,Con sóc có bộ lông màu nâu đỏ.,test
+squirrel_001.jpg,Con sóc có đang cầm thức ăn không?,"Có, con sóc đang cầm thức ăn bằng hai chân.",test
+squirrel_002.jpg,Con sóc đang đứng ở tư thế nào?,Con sóc đang đứng thẳng bằng hai chân sau.,test
+squirrel_002.jpg,Phần bụng của con sóc có màu gì?,Phần bụng của con sóc có màu trắng.,test
+squirrel_002.jpg,Cái đuôi của con sóc trông như thế nào?,Con sóc có chiếc đuôi rất xù và lớn.,test
+squirrel_002.jpg,Có phải con sóc đang nhìn thẳng không?,"Có, con sóc đang nhìn thẳng về phía trước.",test
+squirrel_003.jpg,Con sóc đang ở vị trí nào?,Con sóc đang leo trên một cành cây.,test
+squirrel_003.jpg,Xung quanh con sóc có gì?,Xung quanh con sóc có rất nhiều lá xanh.,test
+squirrel_003.jpg,Con sóc có màu lông gì?,Con sóc có màu lông nâu và vàng.,test
+squirrel_003.jpg,Đuôi của con sóc có dài không?,"Có, con sóc có một chiếc đuôi dài xù.",test
+squirrel_004.jpg,Con sóc đang làm gì trên mặt đất?,Con sóc đang ngồi ăn một hạt dẻ.,test
+squirrel_004.jpg,Màu sắc chủ đạo của con sóc là gì?,Màu xám là màu sắc chủ đạo của nó.,test
+squirrel_004.jpg,Nền đất có đặc điểm gì?,Nền đất có nhiều lá khô và cỏ.,test
+squirrel_004.jpg,Tai của con sóc có dựng đứng không?,"Có, hai tai của con sóc đang dựng đứng.",test
+squirrel_005.jpg,Con sóc đang ở đâu?,Con sóc đang bò trên một thân cây.,test
+squirrel_005.jpg,Màu lông của con sóc này là gì?,Con sóc có bộ lông màu nâu nhạt.,test
+squirrel_005.jpg,Ánh sáng trong ảnh như thế nào?,Ánh sáng mặt trời chiếu rọi từ phía sau.,test
+squirrel_005.jpg,Đuôi của con sóc có hướng lên trên không?,"Có, cái đuôi xù đang hướng lên phía trên.",test
+squirrel_006.jpg,Con sóc đang cầm vật gì?,Con sóc đang cầm một quả thông lớn.,test
+squirrel_006.jpg,Cơ thể con sóc có màu gì?,Cơ thể con sóc có màu nâu xám.,test
+squirrel_006.jpg,Con sóc đang đứng trên vật gì?,Con sóc đang đứng trên một khúc gỗ.,test
+squirrel_006.jpg,Cái đuôi của sóc có cong lên không?,"Có, cái đuôi của sóc đang cong lên cao.",test
+squirrel_007.jpg,Con sóc đang ngồi trên vật gì?,Con sóc đang ngồi trên một gốc cây.,test
+squirrel_007.jpg,Bộ lông của nó có màu gì?,Nó có bộ lông màu cam rực rỡ.,test
+squirrel_007.jpg,Con sóc có đang ăn không?,"Có, con sóc đang gặm một loại hạt.",test
+squirrel_007.jpg,Số lượng con sóc trong ảnh là bao nhiêu?,Chỉ có một con sóc trong ảnh.,test
+squirrel_008.jpg,Con sóc đang bám vào đâu?,Con sóc đang bám vào một cành cây.,test
+squirrel_008.jpg,Phông nền phía sau có màu gì?,Phông nền phía sau có màu xanh dương.,test
+squirrel_008.jpg,Vật con sóc đang cầm là cái gì?,Con sóc đang cầm một hạt đậu lạc.,test
+squirrel_008.jpg,Bụng con sóc có màu trắng không?,"Có, phần bụng con sóc có màu trắng.",test
+squirrel_009.jpg,Con sóc đang di chuyển như thế nào?,Con sóc đang bò xuống từ thân cây.,test
+squirrel_009.jpg,Màu sắc của vỏ cây như thế nào?,Vỏ cây có màu xám và sần sùi.,test
+squirrel_009.jpg,Con sóc có đang nhìn xuống không?,"Có, con sóc đang nhìn xuống phía dưới.",test
+squirrel_009.jpg,Mắt của con sóc có màu gì?,Con sóc có đôi mắt màu đen tròn.,test
+squirrel_010.jpg,Con sóc đang ngồi ở đâu?,Con sóc đang ngồi trên một mặt gỗ.,test
+squirrel_010.jpg,Phía trước con sóc có vật gì?,Phía trước con sóc có những chiếc lá đỏ.,test
+squirrel_010.jpg,Con sóc đang làm hành động gì?,Con sóc đang tập trung ăn hạt dẻ.,test
+squirrel_010.jpg,Cái đuôi của sóc có che khuất lưng không?,"Có, cái đuôi xù đang che một phần lưng.",test
