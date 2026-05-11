@@ -162,8 +162,8 @@ Câu hỏi ──► PhoBERT (vinai) ──► Text Feature     ┌────�
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/your-username/vqa-vietnamese.git
-cd vqa-vietnamese
+git clone https://github.com/thanhtu-nguyen/vqa-animal-project.git
+cd vqa-animal-project
 
 # 2. Tạo môi trường ảo (khuyến nghị)
 python -m venv venv
