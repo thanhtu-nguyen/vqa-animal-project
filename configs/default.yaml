@@ -1,17 +1,15 @@
+# ═══════════════════════════════════════════════════════════════
+# configs/default.yaml
+# ═══════════════════════════════════════════════════════════════
 # Chỉnh các đường dẫn này cho đúng máy của bạn
-# project_root: /content/drive/MyDrive/vqa_dataset
-# image_dir: /content/drive/MyDrive/vqa_dataset
-# train_csv: /content/drive/MyDrive/vqa_dataset/train.csv
-# test_csv: /content/drive/MyDrive/vqa_dataset/test.csv
-# preference_csv: /content/drive/MyDrive/vqa_dataset/preference.csv
-# output_dir: /content/drive/MyDrive/vqa_dataset/outputs
+project_root: /content/drive/MyDrive/vqa_dataset
+image_dir:    /content/drive/MyDrive/vqa_dataset
+train_csv:    /content/drive/MyDrive/vqa_dataset/train.csv
+test_csv:     /content/drive/MyDrive/vqa_dataset/test.csv
+preference_csv: /content/drive/MyDrive/vqa_dataset/preference.csv
+output_dir:   /content/drive/MyDrive/vqa_dataset/outputs
 
-project_root: C:\Users\LENOVO\Documents\HK2 - 2025 - 2026\DL\archive (1)\dataset1\vqa_dataset
-image_dir: C:\Users\LENOVO\Documents\HK2 - 2025 - 2026\DL\archive (1)\dataset1\vqa_dataset
-train_csv: C:\Users\LENOVO\Documents\HK2 - 2025 - 2026\DL\archive (1)\dataset1\vqa_dataset\train.csv
-test_csv: C:\Users\LENOVO\Documents\HK2 - 2025 - 2026\DL\archive (1)\dataset1\vqa_dataset\test.csv
-output_dir: C:\Users\LENOVO\Documents\HK2 - 2025 - 2026\DL\archive (1)\dataset1\vqa_dataset\outputs
-
+# ── Chung ───────────────────────────────────────────────────────
 seed: 42
 max_question_len: 64
 max_answer_len: 10
@@ -22,23 +20,24 @@ lr_a: 2.0e-4
 lr_phobert: 2.0e-5
 weight_decay: 0.01
 patience: 3
-
 image_size: 288
 phobert_name: vinai/phobert-base
 
-# --- PaliGemma (Hướng B) ---
-# Các variant có thể dùng:
-#   google/paligemma2-3b-pt-224   (nhẹ nhất, phù hợp GPU ≤8GB VRAM)
-#   google/paligemma2-10b-pt-224  (mạnh hơn, cần ≥16GB VRAM)
-#   google/paligemma-3b-mix-224   (PaliGemma 1, nếu chưa truy cập PaliGemma 2)
-paligemma_model_name: google/paligemma2-3b-pt-224
+# ── Hướng B: Qwen2.5-VL ─────────────────────────────────────────
+# Các variant có thể dùng (chọn theo VRAM):
+#   Qwen/Qwen2.5-VL-3B-Instruct   ← khuyến nghị, ~6GB VRAM với QLoRA 4-bit
+#   Qwen/Qwen2.5-VL-7B-Instruct   ← tốt hơn, cần ~12GB VRAM
+#   Qwen/Qwen2.5-VL-72B-Instruct  ← mạnh nhất, cần multi-GPU
+qwen_model_name: Qwen/Qwen2.5-VL-3B-Instruct
 
-# PaliGemma LoRA / SFT
-qwen_max_length: 512       # giữ tên key để tương thích với các script train
-qwen_batch_size: 1
-qwen_grad_accum: 8
-qwen_epochs: 2
+# ── QLoRA / SFT ─────────────────────────────────────────────────
+qwen_max_length: 512
+qwen_batch_size: 1        # batch_size=1 với grad_accum để tiết kiệm VRAM
+qwen_grad_accum: 8        # effective batch = 1 * 8 = 8
+qwen_epochs: 1
 qwen_lr: 2.0e-4
+
+# ── LoRA hyperparams ────────────────────────────────────────────
 lora_r: 16
 lora_alpha: 32
 lora_dropout: 0.05
