@@ -30,7 +30,6 @@
 - [Hướng A — Mô hình tự xây dựng](#-hướng-a--mô-hình-tự-xây-dựng)
 - [Hướng B — Qwen2.5-VL](#-hướng-b--qwen25-vl)
 - [Đánh giá & Metrics](#-đánh-giá--metrics)
-- [Demo Gradio](#-demo-gradio)
 - [Cấu hình](#-cấu-hình)
 - [Kết quả mong đợi](#-kết-quả-mong-đợi)
 
@@ -110,7 +109,7 @@ Câu hỏi ──► PhoBERT (vinai) ──► Text Feature     ┌────�
 │   │
 │   ├── 🚀  INFERENCE
 │   ├── infer_a.py                # Single-image inference Hướng A
-│   └── demo_gradio.py            # Web demo (Gradio)
+│   
 │
 ├── 📂 outputs/                   # Checkpoint, log, kết quả (tự sinh)
 │   ├── A_lstm/
@@ -186,7 +185,6 @@ qwen-vl-utils               # Qwen2.5-VL processor
 trl >= 0.8                  # SFT/DPO trainer
 evaluate                    # BLEU, ROUGE
 bert_score                  # BERTScore
-gradio >= 4.0               # Web demo
 scikit-learn
 pandas
 PyYAML
@@ -352,27 +350,7 @@ cat outputs/B2_qwen_lora_sft/test_metrics.json
 
 ---
 
-## 🎨 Demo Gradio
 
-```bash
-# Demo Hướng A (LSTM)
-python -m src.demo_gradio \
-  --mode a \
-  --ckpt outputs/A_lstm/best.pt
-
-# Demo Hướng B (zero-shot)
-python -m src.demo_gradio \
-  --mode qwen
-
-# Demo Hướng B (fine-tuned)
-python -m src.demo_gradio \
-  --mode  qwen \
-  --adapter outputs/B2_qwen_lora_sft
-```
-
-Mở trình duyệt tại `http://localhost:7860` (hoặc link public nếu dùng Colab `--share`).
-
----
 
 ## ⚙️ Cấu hình
 
